@@ -4,7 +4,7 @@ The class record, attendance and DepEd school forms of Filipino teachers, on the
 
 ## For Windows 10 or 11
 
-The newest version is on the [releases page](https://github.com/ClassRecordPH/releases/releases/latest): **ClassRecordPH-Setup-1.0.0.exe**, one file of about 1.2 GB. ClassRecordPH and its offline AI are both inside it, it installs with no internet, and it can be passed to other teachers on a USB stick.
+**[Download ClassRecordPH](https://github.com/ClassRecordPH/releases/releases/latest/download/ClassRecordPH-Setup.exe)** — always the newest version. One file of about 1.2 GB: ClassRecordPH and its offline AI are both inside it, it installs with no internet, and it can be passed to other teachers on a USB stick.
 
 ## Updates
 
